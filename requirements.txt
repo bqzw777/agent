@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+openai
+sentence-transformers
+faiss-cpu
+python-multipart
+pydantic
+requests
+tqdm
+PyPDF2
+pytest
