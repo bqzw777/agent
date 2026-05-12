@@ -1,0 +1,1 @@
+This is a short demo document for AssistAI.\n\nAssistAI is a retrieval-augmented conversational agent that demonstrates how to ingest documents, build a vector index with FAISS, and answer questions grounded in retrieved text.\n\nSetup: Install requirements, set OPENAI_API_KEY environment variable, and run the FastAPI app.\n\nUsage example: Ask: "What is AssistAI?"\n
